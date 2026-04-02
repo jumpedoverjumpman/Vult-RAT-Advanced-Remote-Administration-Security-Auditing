@@ -28,9 +28,9 @@
 
 ### 📺 Video Showcase
 
-[](https://www.youtube.com/watch?v=JRHtDSXi3ms)
+[](https://www.youtube.com/watch?v=QdYh2lCtzf0)
 
-> *Note: Using the Vultures infrastructure for deployment demonstration.*
+> *Note: This is the guide if you need to watch this.*
 
 ### 🛠️ The Builder Interface
 
