@@ -145,4 +145,4 @@ This project is designed to demonstrate remote access vulnerabilities and to tes
 
 -----
 
-**Developed with ❤️ by [Vultures](https://www.google.com/search?q=https://github.com/jumpedoverjumpman)**
+**Developed with ❤️ by [Vultures](https://github.com/jumpedoverjumpman)**
